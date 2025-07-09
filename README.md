@@ -201,11 +201,3 @@
         <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 </p>
-
-<p align="center"> 
-  Visitor count
-    <br>
-  <img src="https://profile-counter.glitch.me/vishal-hansda/count.svg" />
-</p>
-
-
