@@ -1,14 +1,7 @@
 ## Hi there 👋
 
-My name is Vishal Hansda.
-- 🔭 I’m currently working on my projects.
-- 🌱 I’m currently learning AI.
-- 👯 I’m looking to collaborate on my projects.
-- 🤔 I’m looking for help with my projects.
-- 💬 Ask me about linux.
-- 📫 How to reach me: vishalhansda0101@gmail.com
-
-- <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+<br>
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
     Languages and Tools:
 </h3>
 <p align="center" style='margin: 16px 4px 32px;'>
