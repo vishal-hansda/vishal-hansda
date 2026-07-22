@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishalhansda24@gmail.com)](mailto:vishalhansda24@gmail.com)
 
 
-### About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### About Me 
 I'm currently a student pursuing my Bachelor of Technology in Computer Science & Engineering.I'm a Tech Enthusiast 💻 passionate about learning and working with new tech.<br/><br/>
 
 
